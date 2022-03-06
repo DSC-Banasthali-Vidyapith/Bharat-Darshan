@@ -24,11 +24,12 @@ So, get ready to test your knowledge and gain practical insights in flutter deve
 
 #### DISCLAIMER
 
-    1. Do not touch any other files (Add/Update/Delete) in any of the repositories in the parent branch.
-    2. Any type of changes should be carried out only from your local machine or personal github account. 
-    3. Do not touch the following file(s)/folder(s) 
-        - readme.md (Inside the repository. Your project specific readme is different.) 
+    1. Any type of changes should be carried out only from your local machine or personal github account. 
+    2. Do not touch the following file(s)/folder(s) 
+        - README.md (Inside the repository.) 
         - CONTRIBUTING.md - For your reference 
+        - LICENSE.md
+        - CODE_OF_CONDUCT.md
         - .github folder
 
 ## File Structure
