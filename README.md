@@ -22,6 +22,14 @@ So, get ready to test your knowledge and gain practical insights in flutter deve
 <a href="https://github.com/DSC-Banasthali-Vidyapith/Bharat-Darshan/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/DSC-Banasthali-Vidyapith/Bharat-Darshan?color=0059b3"></a> 
 </div>
 
+#### DISCLAIMER
+
+    1. Do not touch any other files (Add/Update/Delete) in any of the repositories in the parent branch.
+    2. Any type of changes should be carried out only from your local machine or personal github account. 
+    3. Do not touch the following file(s)/folder(s) 
+        - readme.md (Inside the repository. Your project specific readme is different.) 
+        - CONTRIBUTING.md - For your reference 
+        - .github folder
 
 ## File Structure
 
