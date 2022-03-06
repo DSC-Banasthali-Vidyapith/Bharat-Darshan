@@ -32,8 +32,6 @@ So, get ready to test your knowledge and gain practical insights in flutter deve
         - CODE_OF_CONDUCT.md
         - .github folder
 
-## File Structure
-
 ## Contribution Guidelines :gear:
 
 Check out our [Contribution Guide]() and follow the instructions carefully. It contains the documentation process to assist you. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
