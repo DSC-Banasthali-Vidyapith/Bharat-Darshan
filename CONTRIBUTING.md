@@ -9,6 +9,26 @@ get yourself started.
    which is the unarguable standard to be enforced in the event
    repository. We shall stick to the same.
 2. The repository structure will be something like this:
+   ```
+   -> Bharat Darshan
+       |
+       |
+       |      |- README.md <- The main index file
+       |      |- CONTRIBUTING.md <- This file
+       |      |- android/
+       |      |    |- app/
+       |      |    |        |- files
+       |      |    |        |   ^- The content goes here
+       |      |    |        |- ...
+       |      |    |- gradle/
+       |      |    |        |- wrapper/
+       |      |    |                       |- ...
+       |      |    |- build.gradle
+       |      |    |  
+       |      |    |        |- ...
+       |      |    |- ...
+       |      |- ...
+   ```
 
 ## Issues
 - Each issue will uniquely identify a single topic/sub-topic.
