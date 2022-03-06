@@ -31,6 +31,12 @@ So, get ready to test your knowledge and gain practical insights in flutter deve
         - LICENSE.md
         - CODE_OF_CONDUCT.md
         - .github folder
+## About
+‘Bharat Darshan’ is a travel brochure to explore India and find out your perfect vacation place.
+- It is mainly built to display navigation between screens.  
+- First Screen has the list of states with wonderful tourist attractions.
+- Once you select the state you will be navigated to the new page with a list of tourist attractions available.
+To get more details about the places, click on the tourish attraction and you will be led to the next page with the details.
 
 ## Contribution Guidelines :gear:
 
