@@ -24,15 +24,15 @@ get yourself started.
        |      |    |        |- wrapper/
        |      |    |                       |- ...
        |      |    |- build.gradle
-       |      |    |  
        |      |    |        |- ...
+       |      |    |        
        |      |    |- ...
        |      |- ...
    ```
 
 ## Issues
 - Each issue will uniquely identify a single topic/sub-topic.
-- Although more issues will be generated, if you find an issue having been assigned to too many contributors already, I recommend you to:
+- Although more issues will be generated, if you find an issue having been assigned to too many contributors already, we recommend you to:
   1. Look for other issues.
   2. Request contribution to the same issue for a different format.
   3. Create your own issue and request the tag from us.
