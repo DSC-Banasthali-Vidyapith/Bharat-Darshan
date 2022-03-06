@@ -34,7 +34,7 @@ So, get ready to test your knowledge and gain practical insights in flutter deve
 
 ## Contribution Guidelines :gear:
 
-Check out our [Contribution Guide]() and follow the instructions carefully. It contains the documentation process to assist you. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
+Check out our [Contribution Guide](https://github.com/DSC-Banasthali-Vidyapith/Bharat-Darshan/blob/main/CONTRIBUTING.md) and follow the instructions carefully. It contains the documentation process to assist you. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
 
 ## Code of Conduct
 You can find our Code of Conduct [here](https://github.com/DSC-Banasthali-Vidyapith/Bharat-Darshan/blob/main/CODE_OF_CONDUCT.md).
@@ -51,9 +51,9 @@ Thanks goes to these wonderful people
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Ananyaas"><img src="https://avatars.githubusercontent.com/u/45946392?v=4" width="100px;" alt=""/><br /><sub><b>Ananyaa Shrivastava</b></sub></a><br /><a href="https://github.com/DSC-Banasthali-Vidyapith/Bharat-Darshan/commits?author=Ananyaas" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://github.com/Sargam-Agarwal"><img src="https://avatars.githubusercontent.com/u/72149858?v=4" width="100px;" alt=""/><br /><sub><b>Sargam Agarwal</b></sub></a><br /><a href="https://avatars.githubusercontent.com/u/72149858?v=4" title="Project Management">📆</a></td>
-    <td align="center"><a href="https://github.com/nimisha-yadav"><img src="https://avatars.githubusercontent.com/u/73909578?v=4" width="100px;" alt=""/><br /><sub><b>Nimisha Yadav</b></sub></a><br /><a href="https://github.com/carbon-design-system/ibm-cloud-cognitive/commits?author=davidmenendez" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://github.com/Ayushinanda"><img src="https://avatars.githubusercontent.com/u/85018225?v=4" width="100px;" alt=""/><br /><sub><b>Ayushi Nanda</b></sub></a><br /><a href="https://github.com/carbon-design-system/ibm-cloud-cognitive/commits?author=sydrosa" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Sargam-Agarwal"><img src="https://avatars.githubusercontent.com/u/72149858?v=4" width="100px;" alt=""/><br /><sub><b>Sargam Agarwal</b></sub></a><br /><a href="https://github.com/DSC-Banasthali-Vidyapith/Bharat-Darshan/commits?author=Sargam-Agarwal" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://github.com/nimisha-yadav"><img src="https://avatars.githubusercontent.com/u/73909578?v=4" width="100px;" alt=""/><br /><sub><b>Nimisha Yadav</b></sub></a><br /><a href="https://github.com/DSC-Banasthali-Vidyapith/Bharat-Darshan/commits?author=nimisha-yadav" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/Ayushinanda"><img src="https://avatars.githubusercontent.com/u/85018225?v=4" width="100px;" alt=""/><br /><sub><b>Ayushi Nanda</b></sub></a><br /><a href="https://github.com/DSC-Banasthali-Vidyapith/Bharat-Darshan/commits?author=Ayushinanda" title="Code">💻</a></td>
 
 
   </tr>
