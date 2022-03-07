@@ -45,7 +45,7 @@ class _MyAppState extends State<MyApp> {
     } else {
       setState(() {
         _favoritePlaces
-            .add(dummyPlaces.firstWhere((meal) => meal.id == placeId));
+            .add(dummyPlaces.firstWhere((place) => place.id == placeId));
       });
     }
   }
