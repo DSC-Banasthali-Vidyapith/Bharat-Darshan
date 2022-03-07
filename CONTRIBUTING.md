@@ -2,8 +2,6 @@
 All the participants of 2022 Flutter Festival are welcome. The following guide will help you
 get yourself started.
 
-## Setting Up
-
 ## Project Structure
 1. For the naming of directories, we use `Pascal_Snake_Case`,
    which is the unarguable standard to be enforced in the event
