@@ -38,10 +38,11 @@ So, get ready to test your knowledge and gain practical insights in flutter deve
 - Once you select the state you will be navigated to the new page with a list of tourist attractions available.
 To get more details about the places, click on the tourish attraction and you will be led to the next page with the details.
 
-## Software Required :
-      1.Flutter SDK 
-      2.Android Studio/ VS Code 
-    Visit [here](https://flutter.dev) to know how to install the mentioned requirements. It is the flutter team's official docs over the installation. Also, you can check [here](https://youtu.be/YaiA1Rs01IU) for more info about how to create Pull Request.
+## Software Required 
+1. Flutter SDK 
+2. Android Studio/ VS Code </br >
+
+Visit [here](https://flutter.dev) to know how to install the mentioned requirements. It is the flutter team's official docs over the installation. Also, you can check [here](https://youtu.be/YaiA1Rs01IU) for more info about how to create Pull Request.
     
 ## Contribution Guidelines :gear:
 
